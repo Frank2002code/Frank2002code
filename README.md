@@ -2,8 +2,8 @@
 
 ### Contact
 
-* Twitter:
-* LinkedIn:
+* Twitter: [@blankwing](https://x.com/blankwing?t=dCZwVrTRXqRjdoLxuCS1bA&s=09)
+* LinkedIn: [Your LinkedIn Profile](#)
 <!--
 **Frank2002code/Frank2002code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
