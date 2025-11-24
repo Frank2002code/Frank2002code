@@ -3,7 +3,7 @@
 ### Contact
 
 * Twitter: [@blankwing](https://x.com/blankwing?t=dCZwVrTRXqRjdoLxuCS1bA&s=09)
-* LinkedIn: [蔡程安](https://www.linkedin.com/in/%E7%A8%8B%E5%AE%89-%E8%94%A1-459b182ab/)
+* LinkedIn: [Cheng-An Tsai](https://www.linkedin.com/in/%E7%A8%8B%E5%AE%89-%E8%94%A1-459b182ab/)
 
 - 🔭 I’m currently working on NYCU (National Yang Ming Chiao Tung University)
 - 🌱 I’m currently learning EDA (Electronic Design Automation)
